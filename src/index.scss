@@ -1,0 +1,17 @@
+@import "~@alifd/next/index.scss";
+
+.tree-panel-list {
+  padding: 8px 10px;
+}
+.no-empty-right {
+  padding: 14px;
+  text-align: center;
+  color: #333333;
+}
+
+.hide {
+  display: none;
+}
+.next-search-lt-input {
+  width: 100% !important;
+}
